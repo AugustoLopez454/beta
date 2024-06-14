@@ -1,0 +1,31 @@
+
+
+#logoBlog{
+    margin: 77px 0px 0px 75px;
+        #logoblog{
+        width:180px;
+        height:180px;
+    }
+}
+ 
+#textoBlog{
+    margin: 46px 0px 0px 126px;
+    
+}
+
+.textoblog{
+    font-size:18pt;
+    font-family:initial;
+    text-align:justify-all;
+    background-color:turquoise
+}
+
+#tituloBlog{
+    margin: -126px 12px 9px 102px;
+    #tituloBlogtexto{
+    text-align:center;
+    font-size:50pt;
+    color:blue; 
+    margin: 2px 0px 0px 3px;
+    }
+}

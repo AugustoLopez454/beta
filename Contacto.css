@@ -1,0 +1,64 @@
+
+
+#tituloContac{
+    
+    .tituloContac{
+        margin: 147px -30px 4px -582px;
+        text-align:center;
+        font-size:53pt;
+    }
+}
+
+#Ubicacion{
+    margin: 156px 0px 0px 128px;
+    #imgUbic{
+        margin:-46px 0px 0px 4px;
+        
+        width:50px;
+        height:50px;
+            
+    }
+    .Ubicacion{
+        margin:201px 1px -36px -3px;
+        font-size:18pt;
+    }
+}
+
+
+#Horario{
+    .Horario{
+        margin:-1px 0px 0px 279px;
+        font-size:18pt;
+        
+        
+    }
+    
+    #imgHorar{
+        margin:-78px 1px -36px 288px;
+        
+        width:50px;
+        height:50px;
+    }
+}
+
+
+
+#Social{
+    .Social{
+         margin:-30px 0px -8px 404px;
+        font-size:18pt;  
+    }
+   
+} 
+
+#imgSocial{
+    margin: -64px 1px -36px 409px;
+    width: 45px;
+    height: 45px;
+    }
+    
+.MAPA{  
+        border-style:solid;
+        border-color:black;
+        margin:-236px 112px 0 572px
+    }

@@ -1,0 +1,258 @@
+
+/*pagina1*/
+
+
+
+
+
+
+
+
+
+
+
+/*pagina2*/
+
+*{
+    margin:0px;
+    padding:0px;
+}
+
+#general{
+    border-style:solid;
+    border-color:black;
+    width:1090px;
+    height:1250px;
+    background-color:white;
+    margin: 10px -8px 6px 159px
+}
+
+#header{
+    border-style:solid;
+    border-color:black;
+    width:1090px;
+    height:200px;
+    margin: -4px 0px 0px -2px;
+    background-color:cyan;
+    
+    #botones{
+        margin: 0px 0px 0px 0px;
+        #Menu{  
+               
+               background-color:azure;
+               text-align:center;
+               width:71px;
+               height:20px;
+               border-style:solid;
+               border-color:black;
+               margin: -140px 5px 37px 318px; 
+        }
+        #especia{
+             
+               background-color:azure;
+               text-align:center;
+               width:152px;
+               height:20px;
+               border-style:solid;
+               border-color:black;
+               margin: -66px 0px 0px 415px; 
+        }
+        #ServAux{
+               background-color:azure;
+               text-align:center;
+               width:115px;
+               height:36px;
+               border-style:solid;
+               border-color:black;
+               margin: -29px 0px 0px 600px; 
+        }
+        #blog{ 
+               background-color:azure;
+               text-align:center;
+               width:60px;
+               height:20px;
+               border-style:solid;
+               border-color:black;
+               margin: -39px 0 0px 755px; 
+        }
+        #Contact{
+               background-color:azure;
+               width:124px;
+               height:21px;
+               border-style:solid;
+               border-color:black;
+               margin: -23px 0px 0px 850px; 
+        }  
+        
+    }
+     
+     
+}
+
+#logo{
+    width:200px;
+    height:200px;
+    
+    #img1Logo{
+       margin: 2px 0px 0px 2px;
+       width:200px;
+       height:200px;
+} 
+ }
+  #tituloClinica{
+   
+     width:850px;
+     height:50px;
+    
+     margin: -86px 28px 9px 212px; 
+ }
+ 
+ #texto\000020especialidades{
+     border-style:solid;
+     border-color:black;
+     width:850px;
+     height:50px;
+     background-color:white;
+     margin: 29px 12px 9px 102px;
+ }
+ 
+ #laboratorio\000020clinico{
+     border-style:solid;
+     border-color:black;
+     width:180px;
+     height:180px;
+     background-color:white;
+     
+     padding:0;
+     margin: 57px 139px -0px;
+     #logolab{
+         margin: 2px 0px 0px 57px;
+         width:60px;
+         height:60px;
+     }
+ }
+ 
+ 
+ #Urologia{
+     border-style:solid;
+     border-color:black;
+
+     width:180px;
+     height:180px;
+     background-color:white;
+     margin:-191px 456px 0px;
+     padding:0;
+     #imgUro{
+         margin: 2px 0px 0px 57px;
+         width:60px;
+         height:60px; 
+     }
+     
+ }
+ 
+ 
+ #Neumologia{
+     border-style:solid;
+     border-color:black;
+
+     width:180px;
+     height:180px;
+     background-color:white;
+     margin:-191px 754px 0px;
+     padding:0;
+     #imgNeumo{
+         margin: 2px 0px 0px 57px;
+         width:60px;
+         height:60px;
+     }
+ }
+ 
+ 
+ 
+ #pediatria{
+     border-style:solid;
+     border-color:black;
+
+     width:180px;
+     height:180px;
+     background-color:white;
+     margin:89px 140px 0px;
+     padding:0;
+     #imgPedia{
+        margin: 2px 0px 0px 57px;
+         width:60px;
+         height:60px; 
+     }
+ }
+ 
+ 
+ #nutricion{
+     border-style:solid;
+     border-color:black;
+
+     width:180px;
+     height:180px;
+     background-color:white;
+     margin:-191px 453px 0px;
+     padding:0;
+     #imgnutri{
+         margin: 2px 0px 0px 57px;
+         width:60px;
+         height:60px;  
+     }
+     
+ }
+ 
+  #medicina\000020general{
+     border-style:solid;
+     border-color:black;
+
+     width:180px;
+     height:180px;
+     background-color:white;
+     margin:-191px 758px 0px;
+     padding:0;
+     
+     #imgmdicin{
+         margin: 2px 0px 0px 57px;
+         width:60px;
+         height:60px;  
+     }
+ }
+ 
+ #pie\000020de\000020pagina{
+     border-style:solid;
+     border-color:black;
+     width:1090px;
+     height: 200px;
+     margin:342px -3px 5px;
+     background-color:blue;
+     #imgwssp{
+         margin: -52px 0px 0px 652px;
+         width:60px;
+         height:60px;  
+         
+         
+     
+     }
+    
+     
+     
+ }
+ 
+ #imgINSTA{
+     
+        margin: -67px 0px 0px 757px;
+        width: 117px;
+        height: 75px;
+             
+         }
+         
+ #logoFace{
+        margin: -76px 0px 0px 886px;
+        width: 117px;
+        height: 75px; 
+         }       
+ 
+ 
+/*pagina3*/

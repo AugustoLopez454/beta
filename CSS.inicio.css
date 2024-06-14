@@ -1,0 +1,68 @@
+
+
+
+
+
+
+
+#vi\0000f1eta_inicio{
+    
+    
+     border-color:black;
+
+     width:505px;
+     height:626px;
+     background-color:white;
+     margin:63px 78px -18px;
+     padding:0;
+     #imgInicio{
+     width:478px;
+     height:629px;
+     margin:-25px -8px 3px;
+     padding:0;
+     }
+     
+}
+    
+#EncabezInicio{
+    
+    
+    width:505px;
+    height:120px;
+    margin:-529px 0px 0px 455px;
+   
+    #textEncaInic\.{
+        background-color:khaki;
+        font-family:serif;
+        font-size: 30pt;
+        text-align:justify-all
+        
+    }
+}
+
+
+#respeto{
+    
+    
+    width:505px;
+    height:120px;
+    margin:147px 0px 0px 455px;
+    #textResp\.{
+        background-color:khaki;
+        font-family:serif;
+        font-size: 18pt;
+        text-align:justify-all
+    }
+}
+
+#compromiso{
+    width:505px;
+    height:120px;
+    margin:16px 0px 0px 455px;
+    #texCompr{
+        background-color:khaki;
+        font-family:serif;
+        font-size: 18pt;
+        text-align:justify-all
+    }
+}

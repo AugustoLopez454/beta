@@ -1,0 +1,30 @@
+
+#tituloServiAuxi{
+    border-style:solid;
+    border-color:black;
+    width:700px;
+    height:50px;
+    background-color:white;
+    margin: 67px 12px 9px 188px;
+    #TxtoServiciosAuxiliares{
+        text-align:center;
+        font-size:36pt;
+        color:blue; 
+        margin: 2px 0px 0px 3px;
+    }
+    
+}
+
+#SerVi{
+    margin:156px 1px 0px 235px;
+    
+    #imgSerAuxi{
+        width: 350px;
+        height:350px;
+    }
+}
+
+#tablaServ{
+    margin:-235px 0px 0px 643px;
+  
+}
